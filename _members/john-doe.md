@@ -1,5 +1,5 @@
 ---
-name: John Doe
+name: 李晓云
 image: images/photo.jpg
 role: phd
 group: alum

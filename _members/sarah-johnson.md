@@ -1,7 +1,7 @@
 ---
-name: Sarah Johnson
+name: 翁玲玲
 image: images/photo.jpg
-description: Lead Programmer
+description: 博士研究生
 role: programmer
 links:
   email: sarah.johnson@gmail.com

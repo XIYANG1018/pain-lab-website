@@ -1,19 +1,106 @@
 ---
-name: Jane Smith
-image: images/photo.jpg
+name: 彭微微
+image: images/1.jpg
 role: pi
 aliases:
   - J. Smith
   - J Smith
 links:
-  home-page: https://janesmith.com
+  home-page: 
   orcid: 0000-0001-8713-9213
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+# <span style="color:rgb(14, 69, 99);">教育/工作经历</span>
+<hr>
+<p>
+2006/09—2010/06  天津大学 精密仪器与光电子工程学院 生物医学工程 学士 <br>
+2013/05—2014/04  意大利罗马大学(University of Rome Sapienza) 联合培养<br>
+2010/09—2014/12  香港大学 李嘉诚医学院 生物医学工程 博士 <br>
+2014/12—2016/09  西南大学 心理学部 讲师/副教授<br>
+2016/10—2022/06  深圳大学 心理学院 副教授<br>
+2022/06—今       深圳大学 心理学院 教授<br>
+</p>
+
+# <span style="color:rgb(14, 69, 99);">奖励和称号</span>
+<hr>
+<p>
+广东省珠江计划青年拔尖人才（2018）<br>
+深圳市孔雀高层次人才C类 （2017）<br>
+深圳大学优秀青年项目“荔园优青 （2019&2022）<br>
+深圳大学新锐研究生导师 （2020）<br>
+深圳大学百篇优秀本科毕业论文（设计）指导教师 （2021）<br>
+</p>
+
+# <span style="color:rgb(14, 69, 99);">研究方向</span>
+<hr>
+<p>
+疼痛和共情的认知神经机制<br>
+疼痛评估方法的建立<br>
+心理物理镇痛策略开发<br>
+</p>
+
+
+# <span style="color:rgb(14, 69, 99);">科研项目</span>
+<hr>
+<p>
+国家自然科学基金面上项目 (32271105)，主持 <br>
+项目名称：人际互动视角下疼痛共情的脑间同步机制及调控研究<br>
+起止时间：2023/01—2026/12，58万元，在研<br>
+</p>
+
+<p>
+国家自然科学基金面上项目 (31871127)，主持<br>
+项目名称：自发/诱发疼痛中的神经振荡同步性及其对疼痛的调控机制研究<br>
+起止时间：2019/01—2022/12，60万元，在研<br>
+</p>
+
+<p>
+科技创新2030 -“脑科学与类脑研究”重大项目青年科学家项目, 参与<br>
+项目名称：痛觉的神经表征、整合和认知调控<br>
+起止时间：2022—2027，500万元，在研<br>
+</p>
+
+<p>
+深圳市基础研究面上项目(JCYJ20190808154413592) ，主持<br>
+项目名称：疼痛相关的神经振荡特征提取及其调控<br>
+起止时间：2020/03—2023/04，40万元，在研<br>
+</p>
+
+<p>
+国家自然科学基金青年项目 (31500921)，主持<br>
+项目名称：疼痛敏感性个体差异的神经机制研究<br>
+起止时间：2016/01—2018/12，20万元，已结题<br>
+</p>
+
+<p>
+广东省普通高校特色创新类项目(2019KTSCX149)，主持<br>
+项目名称：自闭症谱系障碍个体对自身和他人疼痛感知的异常及其认知神经机制研究<br>
+起止时间：2020/05—2022/04，10万元，已结题<br>
+</p>
+
+<p>
+深圳市科技计划基础研究自由探索项目(JCYJ20170818093231953) ，主持<br>
+项目名称：tDCS缓解疼痛的方案优化及其认知神经机制研究<br>
+起止时间：2018/05—2021/03，30万元，已结题<br>
+</p>
+
+# <span style="color:rgb(14, 69, 99);">科研论文发表</span>
+<hr>
+{%
+  include button.html
+  link="research"
+  text="详见研究发表"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+# <span style="color:rgb(14, 69, 99);">社会服务</span>
+<hr>
+中国心理学会生理心理专业委员会委员<br>
+中国心理学会眼动心理研究专业委员会委员<br>
+广东省康复医学会脑功能检测与调控康复分会常务委员<br>
+疼痛神经影像与转化研究中心成员<br>
+国家自然科学基金评审专家<br>
+Frontiers in Molecular Neuroscience、International Journal of Environmental Research and Public Health等期刊客座编辑<br>
+Current Biology、Human Brain Mapping和中国科学等多个学术期刊审稿人<br>
