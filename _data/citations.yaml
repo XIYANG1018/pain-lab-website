@@ -276,35 +276,26 @@
   orcid: 0000-0001-5728-5965
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/jamia/ocac188
-  title: Evaluation of federated learning variations for COVID-19 diagnosis using
-    chest radiographs from 42 US and European hospitals
+- id: doi:10.1007/s12144-022-03793-6
+  title: Linking interpretation bias to individual differences in pain sensitivity
   authors:
-  - Le Peng
-  - Gaoxiang Luo
-  - Andrew Walker
-  - Zachary Zaiman
-  - Emma K Jones
-  - Hemant Gupta
-  - Kristopher Kersten
-  - John L Burns
-  - Christopher A Harle
-  - Tanja Magoc
-  - Benjamin Shickel
-  - Scott D Steenburg
-  - Tyler Loftus
-  - Genevieve B Melton
-  - Judy Wawira Gichoya
-  - Ju Sun
-  - Christopher J Tignanelli
-  publisher: Journal of the American Medical Informatics Association
-  date: ''
-  link: https://doi.org/gq82qc
+  - Zekun Guo
+  - Wenyun Zhang
+  - Xiaohan Lyu
+  - Qian Ye
+  - Weiwei Peng
+  publisher: Current Psychology
+  date: '2022-10-22'
+  link: https://doi.org/gtgq35
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: Individual variation in pain sensitivity is related to an interpretation
+    bias toward pain but not to a memory bias. The observed link between pain-sensitivity
+    profiles and interpretation bias in healthy individuals suggests the potential
+    role of interpretation bias in chronic pain development and maintenance. Intervention
+    to reduce interpretation bias toward pain might be helpful in the prevention and
+    treatment of chronic pain.
   plugin: sources.py
-  file: sources-2022.yaml
+  file: sources.yaml
 - id: doi:arXiv:2210.12234
   title: Imbalanced Classification in Medical Imaging via Regrouping
   authors:
