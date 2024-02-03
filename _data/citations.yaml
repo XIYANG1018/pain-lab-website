@@ -1,223 +1,5 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
-  authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
-  authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
-  authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
-  authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
-  authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
-  authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vince P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1101/2023.11.24.23299002
   title: An In-Depth Evaluation of Federated Learning on Biomedical Natural Language
     Processing
@@ -295,76 +77,109 @@
     to reduce interpretation bias toward pain might be helpful in the prevention and
     treatment of chronic pain.
   plugin: sources.py
-  file: sources.yaml
-- id: doi:arXiv:2210.12234
-  title: Imbalanced Classification in Medical Imaging via Regrouping
+  file: sources-2022.yaml
+- id: doi:10.1007/s10803-022-05471-9
+  title: "Autistic Traits and Empathy for Others\u2019 Pain Among the General Population:\
+    \ Test of the Mediating Effects of First-Hand Pain Sensitivity"
   authors:
-  - Le Peng
-  - Yash Travadi
-  - Rui Zhang
-  - Ying Cui
-  - Ju Sun
-  publisher: arXiv
-  date: '2022-10-26'
-  link: https://doi.org/arxiv:2210.12234
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1098/rsif.2017.0387
-  title: Opportunities and obstacles for deep learning in biology and medicine
-  authors:
-  - Travers Ching
-  - Daniel S. Himmelstein
-  - Brett K. Beaulieu-Jones
-  - Alexandr A. Kalinin
-  - Brian T. Do
-  - Gregory P. Way
-  - Enrico Ferrero
-  - Paul-Michael Agapow
-  - Michael Zietz
-  - Michael M. Hoffman
-  - Wei Xie
-  - Gail L. Rosen
-  - Benjamin J. Lengerich
-  - Johnny Israeli
-  - Jack Lanchantin
-  - Stephen Woloszynek
-  - Anne E. Carpenter
-  - Avanti Shrikumar
-  - Jinbo Xu
-  - Evan M. Cofer
-  - Christopher A. Lavender
-  - Srinivas C. Turaga
-  - Amr M. Alexandari
-  - Zhiyong Lu
-  - David J. Harris
-  - Dave DeCaprio
-  - Yanjun Qi
-  - Anshul Kundaje
-  - Yifan Peng
-  - Laura K. Wiley
-  - Marwin H. S. Segler
-  - Simina M. Boca
-  - S. Joshua Swamidass
-  - Austin Huang
-  - Anthony Gitter
-  - Casey S. Greene
-  publisher: Journal of The Royal Society Interface
-  date: '2023-07-20'
-  link: https://doi.org/gddkhn
+  - Wenyun Zhang
+  - Shiwei Zhuo
+  - Xiaoyun Li
+  - Weiwei Peng
+  publisher: Journal of Autism and Developmental Disorders
+  date: '2022-02-25'
+  link: https://doi.org/gtgq42
   type: paper
-  description: Language models (LMs) such as BERT and GPT have revolutionized natural
-    language processing (NLP). However, the medical field faces challenges in training
-    LMs due to limited data access and privacy constraints imposed by regulations
-    like the Health Insurance Portability and Accountability Act (HIPPA) and the General
-    Data Protection Regulation (GDPR). Federated learning (FL) offers a decentralized
-    solution that enables collaborative learning while ensuring data privacy. In this
-    study, we evaluated FL on 2 biomedical NLP tasks encompassing 8 corpora using
-    6 LMs. Our results show that, 1) FL models consistently outperformed models trained
-    on individual clients' data and sometimes performed comparably with models trained
-    with polled data; 2) with the fixed number of total data, FL models training with
-    more clients produced inferior performance but pre-trained transformer-based models
-    exhibited great resilience. 3) FL models significantly outperformed large language
-    models using zero-/one-shot learning and offered lightning inference speed.
+  tags:
+  - Autistic traits
+  - Autism spectrum disorders
+  - Pain sensitivity
+  - Pain empathy
+  - Cognitive empathy
+  - Emotional empathy
   plugin: sources.py
-  file: sources.yaml
+  file: sources-2022.yaml
+- id: doi:10.1371/journal.pcbi.1007128
+  title: Open collaborative writing with Manubot
+  authors:
+  - Daniel S. Himmelstein
+  - Vincent Rubinetti
+  - David R. Slochower
+  - Dongbo Hu
+  - Venkat S. Malladi
+  - Casey S. Greene
+  - Anthony Gitter
+  publisher: PLOS Computational Biology
+  date: '2020-12-04'
+  link: https://doi.org/c7np
+  type: paper
+  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
+    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  buttons:
+  - type: manubot
+    link: https://greenelab.github.io/meta-review/
+  - type: source
+    text: Manuscript Source
+    link: https://github.com/greenelab/meta-review
+  - type: website
+    link: http://manubot.org/
+  tags:
+  - open science
+  - collaboration
+  repo: greenelab/meta-review
+  plugin: sources.py
+  file: sources-2023.yaml
+- id: doi:10.3724/SP.J.1041.2023.01501
+  title: 'Autistic traits influence pain empathy: The mediation role of pain-related
+    negative emotion and cognition'
+  authors:
+  - Wenyun ZHANG
+  - Shiwei ZHUO
+  - Qianqian ZHENG
+  - Yinglin GUAN
+  - Weiwei PENG
+  publisher: Acta Psychologica Sinica
+  date: '2023-01-01'
+  link: https://doi.org/gtgq4v
+  type: paper
+  image: https://journal.psych.ac.cn/xlxb/fileup/0439-755X/FIGURE/2023-55-9/Images/0439-755X-55-9-1501/img_3.png
+  plugin: sources.py
+  file: sources-2023.yaml
+- id: doi:10.1016/j.physbeh.2023.114266
+  title: "The relationship between oxytocin and empathy for others\u2019 pain: Testing\
+    \ the mediating effect of first-hand pain sensitivity"
+  authors:
+  - Chennan Lin
+  - Shiwei Zhuo
+  - Qianqian Zheng
+  - Xiaoyun Li
+  - Weiwei Peng
+  publisher: Physiology &amp; Behavior
+  date: '2023-10-01'
+  link: https://doi.org/gtgq4w
+  type: paper
+  description: The current study explored the relationship between oxytocin, first-hand
+    pain sensitivity, and pain empathy among healthy participants. Oxytocin lessened
+    hyperalgesia to pressure pain due to repeated exposure to painful stimulation,
+    which is indicative of oxytocin-induced attenuation of first-hand pain sensitivity.
+  plugin: sources.py
+  file: sources-2023.yaml
+- id: doi:10.1016/j.psyneuen.2023.106081
+  title: Testosterone administration enhances the expectation and perception of painful
+    and non-painful somatosensory stimuli
+  authors:
+  - Shiwei Zhuo
+  - Yinhua Zhang
+  - Chennan Lin
+  - Weiwei Peng
+  publisher: Psychoneuroendocrinology
+  date: '2023-06-01'
+  link: https://doi.org/gr6nzr
+  type: paper
+  description: "A plausible explanation for these findings is that testosterone acts\
+    \ to increase vigilance and sustained attention levels, as evidenced by the decreased\
+    \ \u03B1-oscillation power. Thus, our findings support a causal role for testosterone\
+    \ in heightening the biological salience of incoming somatosensory information."
+  plugin: sources.py
+  file: sources-2023.yaml
