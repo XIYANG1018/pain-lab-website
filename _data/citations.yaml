@@ -58,47 +58,6 @@
   orcid: 0000-0001-5728-5965
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1007/s12144-022-03793-6
-  title: Linking interpretation bias to individual differences in pain sensitivity
-  authors:
-  - Zekun Guo
-  - Wenyun Zhang
-  - Xiaohan Lyu
-  - Qian Ye
-  - Weiwei Peng
-  publisher: Current Psychology
-  date: '2022-10-22'
-  link: https://doi.org/gtgq35
-  type: paper
-  description: Individual variation in pain sensitivity is related to an interpretation
-    bias toward pain but not to a memory bias. The observed link between pain-sensitivity
-    profiles and interpretation bias in healthy individuals suggests the potential
-    role of interpretation bias in chronic pain development and maintenance. Intervention
-    to reduce interpretation bias toward pain might be helpful in the prevention and
-    treatment of chronic pain.
-  plugin: sources.py
-  file: sources-2022.yaml
-- id: doi:10.1007/s10803-022-05471-9
-  title: "Autistic Traits and Empathy for Others\u2019 Pain Among the General Population:\
-    \ Test of the Mediating Effects of First-Hand Pain Sensitivity"
-  authors:
-  - Wenyun Zhang
-  - Shiwei Zhuo
-  - Xiaoyun Li
-  - Weiwei Peng
-  publisher: Journal of Autism and Developmental Disorders
-  date: '2022-02-25'
-  link: https://doi.org/gtgq42
-  type: paper
-  tags:
-  - Autistic traits
-  - Autism spectrum disorders
-  - Pain sensitivity
-  - Pain empathy
-  - Cognitive empathy
-  - Emotional empathy
-  plugin: sources.py
-  file: sources-2022.yaml
 - id: doi:10.1371/journal.pcbi.1007128
   title: Open collaborative writing with Manubot
   authors:
@@ -183,3 +142,44 @@
     \ in heightening the biological salience of incoming somatosensory information."
   plugin: sources.py
   file: sources-2023.yaml
+- id: doi:10.1007/s12144-022-03793-6
+  title: Linking interpretation bias to individual differences in pain sensitivity
+  authors:
+  - Zekun Guo
+  - Wenyun Zhang
+  - Xiaohan Lyu
+  - Qian Ye
+  - Weiwei Peng
+  publisher: Current Psychology
+  date: '2022-10-22'
+  link: https://doi.org/gtgq35
+  type: paper
+  description: Individual variation in pain sensitivity is related to an interpretation
+    bias toward pain but not to a memory bias. The observed link between pain-sensitivity
+    profiles and interpretation bias in healthy individuals suggests the potential
+    role of interpretation bias in chronic pain development and maintenance. Intervention
+    to reduce interpretation bias toward pain might be helpful in the prevention and
+    treatment of chronic pain.
+  plugin: sources.py
+  file: sources-2022.yaml
+- id: doi:10.1007/s10803-022-05471-9
+  title: "Autistic Traits and Empathy for Others\u2019 Pain Among the General Population:\
+    \ Test of the Mediating Effects of First-Hand Pain Sensitivity"
+  authors:
+  - Wenyun Zhang
+  - Shiwei Zhuo
+  - Xiaoyun Li
+  - Weiwei Peng
+  publisher: Journal of Autism and Developmental Disorders
+  date: '2022-02-25'
+  link: https://doi.org/gtgq42
+  type: paper
+  tags:
+  - Autistic traits
+  - Autism spectrum disorders
+  - Pain sensitivity
+  - Pain empathy
+  - Cognitive empathy
+  - Emotional empathy
+  plugin: sources.py
+  file: sources-2022.yaml
