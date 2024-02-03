@@ -16,8 +16,14 @@
     - collaboration
   repo: greenelab/meta-review
 
-- id: doi:10.1016/j.csbj.2020.05.017
+- id: doi:arXiv:2210.12234
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
 
-- id: doi:10.7554/eLife.32822
+- id: doi:arXiv:2210.12234 
   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+
+- id: doi:10.1098/rsif.2017.0387
+  type: paper
+  description: Language models (LMs) such as BERT and GPT have revolutionized natural language processing (NLP). However, the medical field faces challenges in training LMs due to limited data access and privacy constraints imposed by regulations like the Health Insurance Portability and Accountability Act (HIPPA) and the General Data Protection Regulation (GDPR). Federated learning (FL) offers a decentralized solution that enables collaborative learning while ensuring data privacy. In this study, we evaluated FL on 2 biomedical NLP tasks encompassing 8 corpora using 6 LMs. Our results show that, 1) FL models consistently outperformed models trained on individual clients' data and sometimes performed comparably with models trained with polled data; 2) with the fixed number of total data, FL models training with more clients produced inferior performance but pre-trained transformer-based models exhibited great resilience. 3) FL models significantly outperformed large language models using zero-/one-shot learning and offered lightning inference speed.
+  date: 2023-7-20
+
