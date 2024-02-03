@@ -9,8 +9,8 @@
     <img
       src="{{ include.image | relative_url }}"
       style="
-        width: {{ include.width | default: "auto" }};
-        max-height: {{ include.height | default: "unset" }};
+        width: 200px;
+       height: 200px;
       "
       alt="{{ include.caption | default: "figure image" }}"
       loading="lazy"
@@ -18,8 +18,8 @@
     >
   </a>
   {% if include.caption %}
-    <figcaption class="figure-caption">
-      {{ include.caption | markdownify | remove: "<p>" | remove: "</p>" }}
+    <figcaption class="figure-caption" style="font-style: normal; font-size: medium">
+      {{ include.caption | newline_to_br | remove: "<p>" | remove: "</p>" }}
     </figcaption>
   {% endif %}
 </figure>

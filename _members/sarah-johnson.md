@@ -1,8 +1,8 @@
 ---
 name: 翁玲玲
 image: images/photo.jpg
-description: 博士研究生
-role: programmer
+description: PostDoc 
+role: phd
 links:
   email: sarah.johnson@gmail.com
   twitter: sarahjohnson
