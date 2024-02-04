@@ -1,24 +1,13 @@
 ---
-title: 最新项目
+title: 科研成果
 nav:
-  order: 3
-  tooltip: Latest projects
+  order: 2
+  tooltip: Research achievements
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}最新项目
-
-（最新项目简介）
-
-{% include tags.html tags="publication, resource, website" %}
-
-{% include search-info.html %}
-
-{% include section.html %}
+# {% include icon.html icon="fa-solid fa-wrench" %}科研成果
 
 
-{% include list.html component="card" data="projects" filters="group: featured" %}
-
-{% include section.html %}
 
 ## 更多研究项目
 

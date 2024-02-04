@@ -36,7 +36,7 @@
 {%
   include button.html
   link="projects"
-  text="详阅我们的最新项目"
+  text="详阅我们的科研成果"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -48,7 +48,7 @@
   include feature.html
   image="images/R.jpg"
   link="projects"
-  title="<strong>最新项目</strong>"
+  title="<strong>科研成果</strong>"
   flip=true
   style="bare"
   text=text
