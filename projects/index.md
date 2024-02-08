@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}科研成果
 
-
+![test](https://github.com/XIYANG1018/pain-lab-website/blob/main/images/research1.png?raw=trueG) 
 
 ## 更多研究项目
 
