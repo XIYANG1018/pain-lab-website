@@ -16,7 +16,7 @@ nav:
 <div style="text-align:center;">
   <img src="https://github.com/XIYANG1018/pain-lab-website/blob/main/images/640.png?raw=true" alt="test" width="500" height="200">
   <br>
-  <p style="text-align: center;">脑和行为的联系</p>
+  <p style="text-align: center;"><em>脑和行为的联系</em></p>
 </div>
 
 <br>
@@ -29,8 +29,8 @@ nav:
   <br>
 
 <div style="text-align:center;">
-  <img src="https://github.com/XIYANG1018/pain-lab-website/blob/main/images/640.png?raw=true" alt="test" width="500" height="200">
-  <p style="text-align: center;">脑和行为的联系</p>
+  <img src="https://github.com/XIYANG1018/pain-lab-website/blob/main/images/自身疼痛与疼痛共情相关评分和神经同步性之间的联系.png?raw=true" alt="test" width="700" height="300">
+  <p style="text-align: center;"><em>自身疼痛与疼痛共情相关评分和神经同步性之间的联系</em></p>
 </div>
 
 <p style="font-size: 18px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这项研究阐述了观察者自身疼痛是如何影响对他人疼痛共情的行为和神经响应。持续的自身疼痛增加了与共情相关躯体感觉共振脑区的神经激活和神经同步性，但减少了与共情相关情感分享脑区的神经激活和神经同步性。这拓展了我们对自身疼痛和疼痛共情之间联系的理解，并提示精神疾病（如精神分裂症）或发展障碍（如自闭症）人群的共情障碍可能来源于自身疼痛的异常。</p>
@@ -47,8 +47,8 @@ nav:
   <br>
 
 <div style="text-align:center;">
-  <img src="https://github.com/XIYANG1018/pain-lab-website/blob/main/images/640.png?raw=true" alt="test" width="500" height="200">
-  <p style="text-align: center;">脑和行为的联系</p>
+  <img src="https://github.com/XIYANG1018/pain-lab-website/blob/main/images/实验设计和行为学结果.png?raw=true" alt="test" width="700" height="350">
+  <p style="text-align: center;"><em>实验设计和行为学结果</em></p>
 </div>
 
 <p style="font-size: 18px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;研究结果表明，当注意力集中在疼痛时，人们对自身疼痛和他人疼痛的敏感性存在一致性。这可能是因为自身疼痛和他人疼痛存在相似的功能意义，如两者均可以激活威胁探测系统，避免环境中存在的或潜在的威胁。疼痛共情异常是多种临床疾病的症状，如精神分裂症和自闭症，这一研究的发现可能为理解某些临床患者的疼痛共情异常提供新思路。</p>
