@@ -58,64 +58,27 @@
   orcid: 0000-0001-5728-5965
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1007/s12144-022-03793-6
-  title: Linking interpretation bias to individual differences in pain sensitivity
+- id: 10.1109/TNSRE.2024.3378712
+  title: Tracking the Immediate and Short-Term Effects of Continuous Theta Burst Stimulation
+    on Dynamic Brain States
   authors:
-  - Zekun Guo
-  - Wenyun Zhang
-  - Xiaohan Lyu
-  - Qian Ye
+  - Chao Chen
+  - Zhidong Guo
   - Weiwei Peng
-  publisher: Current Psychology
-  date: '2022-10-22'
-  link: https://doi.org/gtgq35
-  type: paper
-  description: Individual variation in pain sensitivity is related to an interpretation
-    bias toward pain but not to a memory bias. The observed link between pain-sensitivity
-    profiles and interpretation bias in healthy individuals suggests the potential
-    role of interpretation bias in chronic pain development and maintenance. Intervention
-    to reduce interpretation bias toward pain might be helpful in the prevention and
-    treatment of chronic pain.
-  plugin: sources.py
-  file: sources-2022.yaml
-- id: doi:10.1007/s10803-022-05471-9
-  title: "Autistic Traits and Empathy for Others\u2019 Pain Among the General Population:\
-    \ Test of the Mediating Effects of First-Hand Pain Sensitivity"
-  authors:
-  - Wenyun Zhang
-  - Shiwei Zhuo
-  - Xiaoyun Li
-  - Weiwei Peng
-  publisher: Journal of Autism and Developmental Disorders
-  date: '2022-02-25'
-  link: https://doi.org/gtgq42
-  type: paper
-  tags:
-  - Autistic traits
-  - Autism spectrum disorders
-  - Pain sensitivity
-  - Pain empathy
-  - Cognitive empathy
-  - Emotional empathy
-  plugin: sources.py
-  file: sources-2022.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
+  - Shengpei Wang
+  - Shuang Qiu
+  - Jing Zhang
+  - Xiaogang Chen
+  - Huiguang He
+  publisher: IEEE Transactions on Neural Systems and Rehabilitation Engineering
   date: '2020-12-04'
-  link: https://doi.org/c7np
+  link: https://doi.org/gtrkzj
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  plugin: sources.py
+  file: sources-2023.yaml
   buttons:
   - type: manubot
     link: https://greenelab.github.io/meta-review/
@@ -128,8 +91,6 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-  plugin: sources.py
-  file: sources-2023.yaml
 - id: doi:10.3724/SP.J.1041.2023.01501
   title: 'Autistic traits influence pain empathy: The mediation role of pain-related
     negative emotion and cognition'
@@ -183,3 +144,44 @@
     \ in heightening the biological salience of incoming somatosensory information."
   plugin: sources.py
   file: sources-2023.yaml
+- id: doi:10.1007/s12144-022-03793-6
+  title: Linking interpretation bias to individual differences in pain sensitivity
+  authors:
+  - Zekun Guo
+  - Wenyun Zhang
+  - Xiaohan Lyu
+  - Qian Ye
+  - Weiwei Peng
+  publisher: Current Psychology
+  date: '2022-10-22'
+  link: https://doi.org/gtgq35
+  type: paper
+  description: Individual variation in pain sensitivity is related to an interpretation
+    bias toward pain but not to a memory bias. The observed link between pain-sensitivity
+    profiles and interpretation bias in healthy individuals suggests the potential
+    role of interpretation bias in chronic pain development and maintenance. Intervention
+    to reduce interpretation bias toward pain might be helpful in the prevention and
+    treatment of chronic pain.
+  plugin: sources.py
+  file: sources-2022.yaml
+- id: doi:10.1007/s10803-022-05471-9
+  title: "Autistic Traits and Empathy for Others\u2019 Pain Among the General Population:\
+    \ Test of the Mediating Effects of First-Hand Pain Sensitivity"
+  authors:
+  - Wenyun Zhang
+  - Shiwei Zhuo
+  - Xiaoyun Li
+  - Weiwei Peng
+  publisher: Journal of Autism and Developmental Disorders
+  date: '2022-02-25'
+  link: https://doi.org/gtgq42
+  type: paper
+  tags:
+  - Autistic traits
+  - Autism spectrum disorders
+  - Pain sensitivity
+  - Pain empathy
+  - Cognitive empathy
+  - Emotional empathy
+  plugin: sources.py
+  file: sources-2022.yaml
