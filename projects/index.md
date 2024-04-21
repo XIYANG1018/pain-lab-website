@@ -9,7 +9,7 @@ nav:
 
 ## <span style="color: rgb(0, 80, 157);"><strong>Neurocognitive Mechanisms Underlying Attention Bias Towards Pain: Evidence From a Drift-Diffusion Model and Event-Related Potentials</strong></span>
 
-<p style="font-size: 18px;">本研究采用较高生态效度的空间线索任务范式，结合计算建模和事件相关电位方法，结合DDM和ERP技术刻画了健康个体对疼痛相关信息的注意偏向特点。疼痛的定向加速和解除困难分别体现于分层漂移扩散模型的非决策时间和漂移率，且分别与刺激驱动的自下而上加工过程和目标驱动的冲突监测过程有关。这一研究发现促进了我们理解疼痛注意偏向的认知神经机制，还有望为疼痛注意偏向的矫正提供了潜在的干预靶点。</p>
+<p style="font-size: 18px;">该研究于疼痛领域的顶级期刊《The Journal of Pain》发表，采用较高生态效度的空间线索任务范式，结合计算建模和事件相关电位方法，结合DDM和ERP技术刻画了健康个体对疼痛相关信息的注意偏向特点。疼痛的定向加速和解除困难分别体现于分层漂移扩散模型的非决策时间和漂移率，且分别与刺激驱动的自下而上加工过程和目标驱动的冲突监测过程有关。这一研究发现促进了我们理解疼痛注意偏向的认知神经机制，还有望为疼痛注意偏向的矫正提供了潜在的干预靶点。</p>
 
   <br>
 
@@ -103,19 +103,21 @@ nav:
 <br>
 
 
-## <span style="color: rgb(0, 80, 157);"><strong>Analgesia induced by anodal tDCS and high-frequency tRNS over the motor cortex: Immediate and sustained effects on pain perception/阳极tDCS和高频tRNS刺激运动皮层的镇痛效果</strong></span>
+## <span style="color: rgb(0, 80, 157);"><strong>Analgesia induced by anodal tDCS and high-frequency tRNS over the motor cortex: Immediate and sustained effects on pain perception / 阳极tDCS和高频tRNS刺激运动皮层的镇痛效果</strong></span>
 
 <p style="font-size: 18px;">彭微微教授课题组近期在国际神经科学领域顶级期刊《Brain Stimulation》发表题为Analgesia induced by anodal tDCS and high-frequency tRNS over the motor cortex: Immediate and sustained effects on pain perception的研究论文。《Brain Stimulation》为中科院1区期刊(2020年最新升级版)，2020年影响因子为8.955。课题组硕士研究生姚俊杰和副研究员李晓云为论文的第一作者，彭微微教授为论文的通讯作者，深圳大学为第一完成单位。该研究揭示了阳极tDCS刺激M1会诱发即时镇痛效果，且在刺激不确定的情境下表现出更好的镇痛效果。高频tRNS+DC-offset刺激M1会诱发即时和持续镇痛效果，且部分通过降低疼痛预期而实现，这可能是因为高频tRNS+DC-offset能较为持久地增强M1的皮层兴奋性。本研究为tDCS/tRNS神经调控技术在临床疼痛治疗中的应用提供了证据，并提示应考虑患者的疼痛预期，从而帮助优化神经调控的镇痛效果。</p>
 
   <br>
 
 <div style="text-align:center;">
-  <img src="https://github.com/XIYANG1018/pain-lab-website/blob/main/images/%E8%87%AA%E9%97%AD.png?raw=true" alt="test" width="700" height="300">
-  <p style="text-align: center;"><em>假双人疼痛共情范式流程图</em></p>
-    <img src="https://github.com/XIYANG1018/pain-lab-website/blob/main/images/%E8%87%AA%E9%97%AD%E5%AE%9E%E9%AA%8C%E4%B8%80.png?raw=true" alt="test" width="700" height="300">
-  <p style="text-align: center;"> <em>目睹他人疼痛诱发P2波幅与不愉悦度评分的相关散点图</em></p>
-    <img src="https://github.com/XIYANG1018/pain-lab-website/blob/main/images/%E8%87%AA%E9%97%AD%E5%AE%9E%E9%AA%8C%E4%BA%8C.png?raw=true" alt="test" width="700" height="350">
-  <p style="text-align: center;"><em>自闭特质对情绪共情的影响：疼痛负性情绪和认知的中介作用</em></p>
+  <img src="https://github.com/XIYANG1018/pain-lab-website/blob/main/images/%E9%98%B3%E6%9E%811.png?raw=true" alt="test" width="700" height="200">
+  <p style="text-align: center;"><em>实验流程图</em></p>
+    <img src="https://github.com/XIYANG1018/pain-lab-website/blob/main/images/%E9%98%B3%E6%9E%812.jpg?raw=true" alt="test" width="700" height="300">
+  <p style="text-align: center;"> <em>a-tDCS和高频tRNS+DC-offset的即时镇痛效果</em></p>
+    <img src="https://github.com/XIYANG1018/pain-lab-website/blob/main/images/%E9%98%B3%E6%9E%813.png?raw=true" alt="test" width="700" height="350">
+  <p style="text-align: center;"><em>a-tDCS和高频tRNS+DC-offset的持续镇痛效果</em></p>
+      <img src="https://github.com/XIYANG1018/pain-lab-website/blob/main/images/%E9%98%B3%E6%9E%814.png?raw=true" alt="test" width="700" height="250">
+  <p style="text-align: center;"><em>疼痛预期在高频tRNS+DC-offset镇痛效果中的中介作用</em></p>
 </div>
 
 <p style="font-size: 18px;">该研究工作得到国家自然科学基金(31871127)，广东省普通高校特色创新类项目 (2019KTSCX149)和深圳市基础研究自由探索项目(JCYJ20190808154413592)的支持。</p>
