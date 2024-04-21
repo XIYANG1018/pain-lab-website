@@ -5,30 +5,11 @@ nav:
   tooltip: About our team
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}我们的团队
-
-（团队简介）
-
-{% include section.html %}
-
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
-
-{% include section.html background="images/background.jpg" dark=true %}
-
-<div style="text-align: center;">
-
-探索未知，创新前沿 <br>
-<br>
-<br>
-思辨未来，科学筑梦<br>
-
-</div>
-
-
 {% include section.html %}
 
-## **当前成员**
+# {% include icon.html icon="fa-solid fa-users" %}**当前成员**
 {% capture content %}
 
 {% include figure.html image="images/2.jpg" caption="<br>张银花<br><br>博士研究生" %}
@@ -45,7 +26,22 @@ nav:
 
 {% include section.html %}
 
-## **已毕业成员**
+
+{% include section.html background="images/background.jpg" dark=true %}
+
+<div style="text-align: center;">
+
+探索未知，创新前沿 <br>
+<br>
+<br>
+思辨未来，科学筑梦<br>
+
+</div>
+
+{% include section.html %}
+
+
+# {% include icon.html icon="fa-solid fa-users" %}**已毕业学生**
 {% capture content %}
 
 {% include figure.html image="images/10.jpg" caption="<br>郑倩倩<br><br>硕士研究生" %}

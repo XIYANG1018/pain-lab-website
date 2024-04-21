@@ -14,12 +14,14 @@ nav:
   <br>
 
 <div style="text-align:center;">
-  <img src="https://github.com/XIYANG1018/pain-lab-website/blob/main/images/640.png?raw=true" alt="test" width="500" height="200">
-  <br>
+  <img src="https://github.com/XIYANG1018/pain-lab-website/blob/main/images/%E5%BB%BA%E6%A8%A11.png?raw=true" alt="test" width="700" height="300">
+  <p style="text-align: center;"><em>空间线索任务范式示意图</em></p>
+    <img src="https://github.com/XIYANG1018/pain-lab-website/blob/main/images/%E5%BB%BA%E6%A8%A12.png?raw=true" alt="test" width="700" height="600">
+  <p style="text-align: center;"><em>不同线索类型（CS+和CS-）和有效性（有效和无效）试次下的DDM参数</em></p>
+    <img src="https://github.com/XIYANG1018/pain-lab-website/blob/main/images/%E5%BB%BA%E6%A8%A13.png?raw=true" alt="test" width="700" height="200">
   <p style="text-align: center;"><em>脑和行为的联系</em></p>
 </div>
 
-<br>
 <br>
 
 ## <span style="color: rgb(0, 80, 157);"><strong>Ongoing first-hand pain facilitates somatosensory resonance but inhibits affective sharing in empathy for pain</strong></span>
@@ -37,8 +39,6 @@ nav:
 
 
 <br>
-<br>
-
 
 ## <span style="color: rgb(0, 80, 157);"><strong>Neurocognitive Mechanisms Underlying Attention Bias Towards Pain: Evidence From a Drift-Diffusion Model and Event-Related Potentials</strong></span>
 
@@ -54,7 +54,6 @@ nav:
 <p style="font-size: 18px;">研究结果表明，当注意力集中在疼痛时，人们对自身疼痛和他人疼痛的敏感性存在一致性。这可能是因为自身疼痛和他人疼痛存在相似的功能意义，如两者均可以激活威胁探测系统，避免环境中存在的或潜在的威胁。疼痛共情异常是多种临床疾病的症状，如精神分裂症和自闭症，这一研究的发现可能为理解某些临床患者的疼痛共情异常提供新思路。</p>
 
 <br>
-<br>
 
 ## <span style="color: rgb(0, 80, 157);"><strong>The linkage between first-hand pain sensitivity and empathy for others' pain: attention matters / 疼痛敏感性与疼痛共情以及内隐疼痛认知之间的联系</strong></span>
 
@@ -65,19 +64,14 @@ nav:
 <div style="text-align:center;">
   <img src="https://github.com/XIYANG1018/pain-lab-website/blob/main/images/%E7%96%BC%E7%97%9B%E8%81%94%E7%B3%BB1.png?raw=true" alt="test" width="700" height="400">
   <p style="text-align: center;"><em>实验设计和行为学结果</em></p>
-</div>
 
-<div style="text-align:center;">
   <img src="https://github.com/XIYANG1018/pain-lab-website/blob/main/images/%E7%96%BC%E7%97%9B%E8%81%94%E7%B3%BB2.png?raw=true" alt="test" width="700" height="200">
   <p style="text-align: center;"><em>实验流程图</em></p>
-</div>
 
-<div style="text-align:center;">
   <img src="https://github.com/XIYANG1018/pain-lab-website/blob/main/images/%E7%96%BC%E7%97%9B%E8%81%94%E7%B3%BB3.png?raw=true" alt="test" width="500" height="300">
   <p style="text-align: center;"><em>事件相关电位P3响应可介导疼痛敏感性与疼痛内隐负性偏向之间的联系</em></p>
 </div>
 
-<br>
 <br>
 
 ## <span style="color: rgb(0, 80, 157);"><strong>自闭特质对疼痛共情的影响：疼痛负性情绪和认知的中介作用</strong></span>
@@ -99,7 +93,6 @@ nav:
 
 
 
-<br>
 <br>
 
 

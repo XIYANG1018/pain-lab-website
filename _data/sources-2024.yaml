@@ -1,0 +1,18 @@
+- id: 10.1109/TNSRE.2024.3378712
+  type: paper
+  description: Continuous Theta Burst Stimulation (cTBS) has been shown to modulate cortical oscillations and induce cortical inhibitory effects. Electroencephalography (EEG) studies have shown some immediate effects of cTBS on brain activity. To investigate both immediate effects and short-term effects of cTBS on dynamic brain changes, cTBS was applied to 22 healthy participants over their left motor cortex. We recorded eyes-open, resting-state EEG and performance in the Nine-Hole Peg Test (NHPT) before cTBS, immediately after cTBS, and 80 minutes after cTBS. We identified nine states using a Hidden Markov Model (HMM)-based approach to describe the process of dynamic brain changes. The spatial activation, temporal profiles of HMM states and behavioral performance of NHPT were assessed and compared. cTBS altered the temporal profiles of S1-S5 immediately after cTBS and the temporal profiles of S5, S6 and S7 80 min after cTBS. Moreover, cTBS improved motor function of the left hand. State 1 was characterized as the activation of right occipito-temporal area, and NHPT behavioral performance of the left hand positively correlated with the occurrence of state 1, and negatively correlated with the interval time of state 1 after cTBS. The transitions between S1 or S7 and other states showed dynamic reconfiguration during after-effect sustained time after cTBS. These results suggest that the dynamic characteristics of state 1 are potential biomarkers for characterizing the aftereffect changes of cTBS.
+  date: 2024-03-25
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/7333/10398877/10477518/qiu2abc-3378712-large.gif
+
+- id: doi:10.3724/SP.J.1041.2023.01501
+  type: paper
+  image: https://journal.psych.ac.cn/xlxb/fileup/0439-755X/FIGURE/2023-55-9/Images/0439-755X-55-9-1501/img_3.png
+
+- id: doi:10.1016/j.physbeh.2023.114266 
+  type: paper
+  description: The current study explored the relationship between oxytocin, first-hand pain sensitivity, and pain empathy among healthy participants. Oxytocin lessened hyperalgesia to pressure pain due to repeated exposure to painful stimulation, which is indicative of oxytocin-induced attenuation of first-hand pain sensitivity.
+
+- id: doi:10.1016/j.psyneuen.2023.106081
+  type: paper
+  description: A plausible explanation for these findings is that testosterone acts to increase vigilance and sustained attention levels, as evidenced by the decreased α-oscillation power. Thus, our findings support a causal role for testosterone in heightening the biological salience of incoming somatosensory information.
+
