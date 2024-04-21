@@ -9,7 +9,7 @@ nav:
 
 ## <span style="color: rgb(0, 80, 157);"><strong>Neurocognitive Mechanisms Underlying Attention Bias Towards Pain: Evidence From a Drift-Diffusion Model and Event-Related Potentials</strong></span>
 
-<p style="font-size: 18px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本研究采用较高生态效度的空间线索任务范式，结合计算建模和事件相关电位方法，结合DDM和ERP技术刻画了健康个体对疼痛相关信息的注意偏向特点。疼痛的定向加速和解除困难分别体现于分层漂移扩散模型的非决策时间和漂移率，且分别与刺激驱动的自下而上加工过程和目标驱动的冲突监测过程有关。这一研究发现促进了我们理解疼痛注意偏向的认知神经机制，还有望为疼痛注意偏向的矫正提供了潜在的干预靶点。</p>
+<p style="font-size: 18px;">本研究采用较高生态效度的空间线索任务范式，结合计算建模和事件相关电位方法，结合DDM和ERP技术刻画了健康个体对疼痛相关信息的注意偏向特点。疼痛的定向加速和解除困难分别体现于分层漂移扩散模型的非决策时间和漂移率，且分别与刺激驱动的自下而上加工过程和目标驱动的冲突监测过程有关。这一研究发现促进了我们理解疼痛注意偏向的认知神经机制，还有望为疼痛注意偏向的矫正提供了潜在的干预靶点。</p>
 
   <br>
 
@@ -24,7 +24,7 @@ nav:
 
 ## <span style="color: rgb(0, 80, 157);"><strong>Ongoing first-hand pain facilitates somatosensory resonance but inhibits affective sharing in empathy for pain</strong></span>
 
-<p style="font-size: 18px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;根据共情的知觉-动作理论模型，自身疼痛与他人疼痛信息加工过程涉及相似的心理机制和神经表征。这提示观察者自身疼痛可能会影响对他人疼痛的共情反应。以往研究探讨了慢性疼痛患者疼痛共情反应的异常，然而研究结果存在较大的异质性。为此，本研究以健康个体为研究对象，采用了辣椒素诱发的持续性疼痛模型，探讨了共情者的自身疼痛如何影响对他人疼痛的共情过程。</p>
+<p style="font-size: 18px;">根据共情的知觉-动作理论模型，自身疼痛与他人疼痛信息加工过程涉及相似的心理机制和神经表征。这提示观察者自身疼痛可能会影响对他人疼痛的共情反应。以往研究探讨了慢性疼痛患者疼痛共情反应的异常，然而研究结果存在较大的异质性。为此，本研究以健康个体为研究对象，采用了辣椒素诱发的持续性疼痛模型，探讨了共情者的自身疼痛如何影响对他人疼痛的共情过程。</p>
 
   <br>
 
@@ -33,7 +33,7 @@ nav:
   <p style="text-align: center;"><em>自身疼痛与疼痛共情相关评分和神经同步性之间的联系</em></p>
 </div>
 
-<p style="font-size: 18px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这项研究阐述了观察者自身疼痛是如何影响对他人疼痛共情的行为和神经响应。持续的自身疼痛增加了与共情相关躯体感觉共振脑区的神经激活和神经同步性，但减少了与共情相关情感分享脑区的神经激活和神经同步性。这拓展了我们对自身疼痛和疼痛共情之间联系的理解，并提示精神疾病（如精神分裂症）或发展障碍（如自闭症）人群的共情障碍可能来源于自身疼痛的异常。</p>
+<p style="font-size: 18px;">这项研究阐述了观察者自身疼痛是如何影响对他人疼痛共情的行为和神经响应。持续的自身疼痛增加了与共情相关躯体感觉共振脑区的神经激活和神经同步性，但减少了与共情相关情感分享脑区的神经激活和神经同步性。这拓展了我们对自身疼痛和疼痛共情之间联系的理解，并提示精神疾病（如精神分裂症）或发展障碍（如自闭症）人群的共情障碍可能来源于自身疼痛的异常。</p>
 
 
 <br>
@@ -42,7 +42,7 @@ nav:
 
 ## <span style="color: rgb(0, 80, 157);"><strong>Neurocognitive Mechanisms Underlying Attention Bias Towards Pain: Evidence From a Drift-Diffusion Model and Event-Related Potentials</strong></span>
 
-<p style="font-size: 18px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;疼痛共情是对他人疼痛的感知、体验和反应，即对他人疼痛的“感同身受”。已有研究表明自身疼痛与他人疼痛信息加工过程涉及相似的心理机制和神经表征，且两者都强烈依赖于自上而下的受控机制，如注意的调节。本研究从个体间差异的角度考察了自身疼痛敏感性与疼痛共情之间的联系，以及两者的联系是否受到注意的调节。研究团队结合疼痛相关问卷和实验性疼痛敏感性评估方法，筛选了高、低疼痛敏感性的健康被试，比较了两组被试在疼痛共情任务中的行为和神经响应。</p>
+<p style="font-size: 18px;">疼痛共情是对他人疼痛的感知、体验和反应，即对他人疼痛的“感同身受”。已有研究表明自身疼痛与他人疼痛信息加工过程涉及相似的心理机制和神经表征，且两者都强烈依赖于自上而下的受控机制，如注意的调节。本研究从个体间差异的角度考察了自身疼痛敏感性与疼痛共情之间的联系，以及两者的联系是否受到注意的调节。研究团队结合疼痛相关问卷和实验性疼痛敏感性评估方法，筛选了高、低疼痛敏感性的健康被试，比较了两组被试在疼痛共情任务中的行为和神经响应。</p>
 
   <br>
 
@@ -51,14 +51,14 @@ nav:
   <p style="text-align: center;"><em>实验设计和行为学结果</em></p>
 </div>
 
-<p style="font-size: 18px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;研究结果表明，当注意力集中在疼痛时，人们对自身疼痛和他人疼痛的敏感性存在一致性。这可能是因为自身疼痛和他人疼痛存在相似的功能意义，如两者均可以激活威胁探测系统，避免环境中存在的或潜在的威胁。疼痛共情异常是多种临床疾病的症状，如精神分裂症和自闭症，这一研究的发现可能为理解某些临床患者的疼痛共情异常提供新思路。</p>
+<p style="font-size: 18px;">研究结果表明，当注意力集中在疼痛时，人们对自身疼痛和他人疼痛的敏感性存在一致性。这可能是因为自身疼痛和他人疼痛存在相似的功能意义，如两者均可以激活威胁探测系统，避免环境中存在的或潜在的威胁。疼痛共情异常是多种临床疾病的症状，如精神分裂症和自闭症，这一研究的发现可能为理解某些临床患者的疼痛共情异常提供新思路。</p>
 
 <br>
 <br>
 
-## <span style="color: rgb(0, 80, 157);"><strong>Neurocognitive Mechanisms Underlying Attention Bias Towards Pain: Evidence From a Drift-Diffusion Model and Event-Related Potentials</strong></span>
+## <span style="color: rgb(0, 80, 157);"><strong>The linkage between first-hand pain sensitivity and empathy for others' pain: attention matters</strong></span>
 
-<p style="font-size: 18px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本研究采用较高生态效度的空间线索任务范式，结合计算建模和事件相关电位方法，结合DDM和ERP技术刻画了健康个体对疼痛相关信息的注意偏向特点。疼痛的定向加速和解除困难分别体现于分层漂移扩散模型的非决策时间和漂移率，且分别与刺激驱动的自下而上加工过程和目标驱动的冲突监测过程有关。这一研究发现促进了我们理解疼痛注意偏向的认知神经机制，还有望为疼痛注意偏向的矫正提供了潜在的干预靶点。</p>
+<p style="font-size: 18px;">彭微微副教授研究团队围绕疼痛敏感性的个体差异开展了系列研究，揭示了疼痛敏感性与疼痛共情以及内隐疼痛认知之间的联系。该项研究成果在Human Brain Mapping期刊（中科院SCI二区，SCI-JCR-2019：Q1, IF = 4.42）发表，论文第一作者为副研究员李晓云博士。研究结果表明，当注意力集中在疼痛时，人们对自身疼痛和他人疼痛的敏感性存在一致性。这可能是因为自身疼痛和他人疼痛存在相似的功能意义，如两者均可以激活威胁探测系统，避免环境中存在的或潜在的威胁。疼痛共情异常是多种临床疾病的症状，如精神分裂症和自闭症，这一研究的发现可能为理解某些临床患者的疼痛共情异常提供新思路。</p>
 
 
   <br>
@@ -70,9 +70,9 @@ nav:
 <br>
 <br>
 
-## <span style="color: rgb(0, 80, 157);"><strong>Neurocognitive Mechanisms Underlying Attention Bias Towards Pain: Evidence From a Drift-Diffusion Model and Event-Related Potentials</strong></span>
+## <span style="color: rgb(0, 80, 157);"><strong>自闭特质对疼痛共情的影响：疼痛负性情绪和认知的中介作用</strong></span>
 
-<p style="font-size: 18px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本研究采用较高生态效度的空间线索任务范式，结合计算建模和事件相关电位方法，结合DDM和ERP技术刻画了健康个体对疼痛相关信息的注意偏向特点。疼痛的定向加速和解除困难分别体现于分层漂移扩散模型的非决策时间和漂移率，且分别与刺激驱动的自下而上加工过程和目标驱动的冲突监测过程有关。这一研究发现促进了我们理解疼痛注意偏向的认知神经机制，还有望为疼痛注意偏向的矫正提供了潜在的干预靶点。</p>
+<p style="font-size: 18px;">疼痛认知与调控实验室在国内心理学顶级期刊《心理学报》（2023年， 第55卷，第9期）发表题为自闭特质对疼痛共情的影响：疼痛负性情绪和认知的中介作用的研究论文。实验室已毕业硕士研究生张文芸为第一作者，彭微微教授为通讯作者。</p>
 
   <br>
 
