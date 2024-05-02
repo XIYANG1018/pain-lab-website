@@ -14,13 +14,12 @@
   orcid: 0000-0002-4600-0036
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1007/s12144-022-03793-6
-  title: Linking interpretation bias to individual differences in pain sensitivity
+- id: 10.1109/TNSRE.2024.3378712
+  title: Tracking the Immediate and Short-Term Effects of Continuous Theta Burst Stimulation
+    on Dynamic Brain States
   authors:
-  - Zekun Guo
-  - Wenyun Zhang
-  - Xiaohan Lyu
-  - Qian Ye
+  - Chao Chen
+  - Zhidong Guo
   - Weiwei Peng
   publisher: Current Psychology
   date: '2022-10-22'
