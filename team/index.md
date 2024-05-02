@@ -40,8 +40,7 @@ nav:
 
 {% include section.html %}
 
-
-# {% include icon.html icon="fa-solid fa-users" %}**已毕业学生**
+## **已毕业成员**
 {% capture content %}
 
 {% include figure.html image="images/10.jpg" caption="<br>郑倩倩<br><br>硕士研究生" %}

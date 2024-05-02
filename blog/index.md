@@ -5,9 +5,10 @@ nav:
   tooltip: News
 ---
 
-# {% include icon.html icon="fa-solid fa-feather-pointed" %}团队大事记
+# {% include icon.html icon="fa-solid fa-feather-pointed" %}实验室新闻
 
 
-{% include section.html %}
+{% include card.html%}
 
-{% include list.html data="posts" component="post-excerpt" %}
+
+

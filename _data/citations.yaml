@@ -1,61 +1,17 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1101/2023.11.24.23299002
-  title: An In-Depth Evaluation of Federated Learning on Biomedical Natural Language
-    Processing
+- id: doi:10.1097/j.pain.0000000000003152
+  title: Time-varying phase synchronization of resting-state functional magnetic resonance
+    imaging reveals a shift toward self-referential processes during sustained pain
   authors:
-  - Le Peng
-  - Gaoxiang Luo
-  - Sicheng Zhou
-  - Jiandong Chen
-  - Ziyue Xu
-  - Rui Zhang
-  - Ju Sun
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-11-27'
-  link: https://doi.org/gtgqtt
-  orcid: 0000-0001-5728-5965
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2022.11.26.22282782
-  title: Rethinking Transfer Learning for Medical Image Classification
-  authors:
-  - Le Peng
-  - Hengyue Liang
-  - Gaoxiang Luo
-  - Taihui Li
-  - Ju Sun
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-11-29'
-  link: https://doi.org/gtgqtv
-  orcid: 0000-0001-5728-5965
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1148/ryai.210217
-  title: 'Performance of a Chest Radiograph AI Diagnostic Tool for COVID-19: A                     Prospective
-    Observational Study'
-  authors:
-  - Ju Sun
-  - Le Peng
-  - Taihui Li
-  - Dyah Adila
-  - Zach Zaiman
-  - Genevieve B. Melton-Meaux
-  - Nicholas E. Ingraham
-  - Eric Murray
-  - Daniel Boley
-  - Sean Switzer
-  - John L. Burns
-  - Kun Huang
-  - Tadashi Allen
-  - Scott D. Steenburg
-  - Judy Wawira Gichoya
-  - Erich Kummerfeld
-  - Christopher J. Tignanelli
-  publisher: 'Radiology: Artificial Intelligence'
-  date: '2022-07-01'
-  link: https://doi.org/gqkd2d
-  orcid: 0000-0001-5728-5965
+  - Wutao Lou
+  - Xiaoyun Li
+  - Richu Jin
+  - Weiwei Peng
+  publisher: Pain
+  date: '2024-01-09'
+  link: https://doi.org/gtrmdv
+  orcid: 0000-0002-4600-0036
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1007/s12144-022-03793-6
@@ -69,15 +25,40 @@
   publisher: Current Psychology
   date: '2022-10-22'
   link: https://doi.org/gtgq35
-  type: paper
-  description: Individual variation in pain sensitivity is related to an interpretation
-    bias toward pain but not to a memory bias. The observed link between pain-sensitivity
-    profiles and interpretation bias in healthy individuals suggests the potential
-    role of interpretation bias in chronic pain development and maintenance. Intervention
-    to reduce interpretation bias toward pain might be helpful in the prevention and
-    treatment of chronic pain.
+  orcid: 0000-0002-4600-0036
   plugin: sources.py
-  file: sources-2022.yaml
+  file: sources.yaml
+  type: paper
+- id: doi:10.1016/j.jpain.2023.03.003
+  title: 'Neurocognitive Mechanisms Underlying Attention Bias Towards Pain: Evidence
+    From a Drift-Diffusion Model and Event-Related Potentials'
+  authors:
+  - Yinhua Zhang
+  - Qian Ye
+  - Hao He
+  - Richu Jin
+  - Weiwei Peng
+  publisher: The Journal of Pain
+  date: '2023-07-01'
+  link: https://doi.org/gr6nzz
+  orcid: 0000-0002-4600-0036
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.psyneuen.2023.106081
+  title: Testosterone administration enhances the expectation and perception of painful
+    and non-painful somatosensory stimuli
+  authors:
+  - Shiwei Zhuo
+  - Yinhua Zhang
+  - Chennan Lin
+  - Weiwei Peng
+  publisher: Psychoneuroendocrinology
+  date: '2023-06-01'
+  link: https://doi.org/gr6nzr
+  orcid: 0000-0002-4600-0036
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
 - id: doi:10.1007/s10803-022-05471-9
   title: "Autistic Traits and Empathy for Others\u2019 Pain Among the General Population:\
     \ Test of the Mediating Effects of First-Hand Pain Sensitivity"
@@ -89,47 +70,169 @@
   publisher: Journal of Autism and Developmental Disorders
   date: '2022-02-25'
   link: https://doi.org/gtgq42
-  type: paper
-  tags:
-  - Autistic traits
-  - Autism spectrum disorders
-  - Pain sensitivity
-  - Pain empathy
-  - Cognitive empathy
-  - Emotional empathy
+  orcid: 0000-0002-4600-0036
   plugin: sources.py
-  file: sources-2022.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+  file: sources.yaml
+  type: paper
+- id: doi:10.1016/j.neuroimage.2022.119599
+  title: Ongoing first-hand pain facilitates somatosensory resonance but inhibits
+    affective sharing in empathy for pain
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
+  - Xiaoyun Li
+  - Wutao Lou
+  - Wenyun Zhang
+  - Raymond Kai-Yu Tong
+  - Li Hu
+  - Weiwei Peng
+  publisher: NeuroImage
+  date: '2022-11-01'
+  link: https://doi.org/gtrmdw
+  orcid: 0000-0002-4600-0036
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.brs.2021.07.011
+  title: 'Analgesia induced by anodal tDCS and high-frequency tRNS over the motor
+    cortex: Immediate and sustained effects on pain perception'
+  authors:
+  - Junjie Yao
+  - Xiaoyun Li
+  - Wenyun Zhang
+  - Xinxin Lin
+  - Xiaohan Lyu
+  - Wutao Lou
+  - Weiwei Peng
+  publisher: Brain Stimulation
+  date: '2021-09-01'
+  link: https://doi.org/grv79p
+  orcid: 0000-0002-4600-0036
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/psyp.13768
+  title: "Brain responses of dysphoric and control participants during a self\u2010\
+    esteem implicit association test"
+  authors:
+  - Yixue Lou
+  - Yi Lei
+  - Piia Astikainen
+  - Weiwei Peng
+  - Suzanne Otieno
+  - "Paavo H. T. Lepp\xE4nen"
+  publisher: Psychophysiology
+  date: '2021-02-04'
+  link: https://doi.org/gk6npv
+  orcid: 0000-0002-4600-0036
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/hbm.25160
+  title: "The linkage between first\u2010hand pain sensitivity and empathy for others'\
+    \ pain: Attention matters"
+  authors:
+  - Xiaoyun Li
+  - Yang Liu
+  - Qian Ye
+  - Xuejing Lu
+  - Weiwei Peng
+  publisher: Human Brain Mapping
+  date: '2020-08-06'
+  link: https://doi.org/grfg66
+  orcid: 0000-0002-4600-0036
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/psyp.13562
+  title: "Language contexts modulate instant empathic responses to others\u2019 pain"
+  authors:
+  - Yan Jing Wu
+  - Yang Liu
+  - Manlin Yao
+  - Xiaoyun Li
+  - Weiwei Peng
+  publisher: Psychophysiology
+  date: '2020-03-09'
+  link: https://doi.org/gtrmdx
+  orcid: 0000-0002-4600-0036
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.nlm.2019.107099
+  title: 'Taxonomic relations evoke more fear than thematic relations after fear conditioning:
+    An EEG study'
+  authors:
+  - Yi Lei
+  - Ying Mei
+  - Yuqian Dai
+  - Weiwei Peng
+  publisher: Neurobiology of Learning and Memory
+  date: '2020-01-01'
+  link: https://doi.org/ggcmc8
+  orcid: 0000-0002-4600-0036
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.brainres.2019.146382
+  title: 'Effects of physical exercise on negative emotional susceptibility in young
+    adult females: An event-related potential study'
+  authors:
+  - Fanghui Qiu
+  - Weiwei Peng
+  - Manman Li
+  - Lanlan Zhang
+  - Hua Zhu
+  - Xiaoying Tan
+  - Hong Li
+  - Jian Zhang
+  publisher: Brain Research
+  date: '2019-11-01'
+  link: https://doi.org/grfjf3
+  orcid: 0000-0002-4600-0036
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1155/2019/2687150
+  title: 'Hyperexcitability of Cortical Oscillations in Patients with Somatoform Pain
+    Disorder: A Resting-State EEG Study'
+  authors:
+  - Qian Ye
+  - Dong Yan
+  - Manlin Yao
+  - Wutao Lou
+  - Weiwei Peng
+  publisher: Neural Plasticity
+  date: '2019-07-09'
+  link: https://doi.org/gtrmdz
+  orcid: 0000-0002-4600-0036
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neulet.2019.03.047
+  title: 'EEG correlates of math anxiety during arithmetic problem solving: Implication
+    for attention deficits'
+  authors:
+  - Jie Liu
+  - Jinqi Li
+  - Weiwei Peng
+  - Mengjiao Feng
+  - Yuejia Luo
+  publisher: Neuroscience Letters
+  date: '2019-06-01'
+  link: https://doi.org/gp7ct3
+  orcid: 0000-0002-4600-0036
+  plugin: orcid.py
+  file: orcid.yaml
+- id: 10.1109/TNSRE.2024.3378712
+  title: Tracking the Immediate and Short-Term Effects of Continuous Theta Burst Stimulation
+    on Dynamic Brain States
+  authors:
+  - Chao Chen
+  - Zhidong Guo
+  - Weiwei Peng
+  - Shengpei Wang
+  - Shuang Qiu
+  - Jing Zhang
+  - Xiaogang Chen
+  - Huiguang He
+  publisher: IEEE Transactions on Neural Systems and Rehabilitation Engineering
+  date: '2024-3-25'
+  link: https://doi.org/gtrkzj
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/7333/10398877/10477518/qiu2abc-3378712-large.gif
   plugin: sources.py
-  file: sources-2023.yaml
+  file: sources.yaml
 - id: doi:10.3724/SP.J.1041.2023.01501
   title: 'Autistic traits influence pain empathy: The mediation role of pain-related
     negative emotion and cognition'
@@ -145,7 +248,7 @@
   type: paper
   image: https://journal.psych.ac.cn/xlxb/fileup/0439-755X/FIGURE/2023-55-9/Images/0439-755X-55-9-1501/img_3.png
   plugin: sources.py
-  file: sources-2023.yaml
+  file: sources.yaml
 - id: doi:10.1016/j.physbeh.2023.114266
   title: "The relationship between oxytocin and empathy for others\u2019 pain: Testing\
     \ the mediating effect of first-hand pain sensitivity"
@@ -159,27 +262,622 @@
   date: '2023-10-01'
   link: https://doi.org/gtgq4w
   type: paper
-  description: The current study explored the relationship between oxytocin, first-hand
-    pain sensitivity, and pain empathy among healthy participants. Oxytocin lessened
-    hyperalgesia to pressure pain due to repeated exposure to painful stimulation,
-    which is indicative of oxytocin-induced attenuation of first-hand pain sensitivity.
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0031938423X00109-cov150h.gif
   plugin: sources.py
-  file: sources-2023.yaml
-- id: doi:10.1016/j.psyneuen.2023.106081
-  title: Testosterone administration enhances the expectation and perception of painful
-    and non-painful somatosensory stimuli
+  file: sources.yaml
+- id: 10.1093/cercor/bhad143
+  title: Temporal dynamics of electroencephalographic microstates during sustained
+    pain
+  authors:
+  - Shuang Qiu
+  - Xiaohan Lyu
+  - Qianqian Zheng
+  - Huiguang He
+  - Richu Jin
+  - Weiwei Peng
+  publisher: Cerebral Cortex
+  date: '2023-04-27'
+  link: https://doi.org/gtrkzp
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1016/j.jpain.2023.03.003
+  title: 'Neurocognitive Mechanisms Underlying Attention Bias Towards Pain: Evidence
+    From a Drift-Diffusion Model and Event-Related Potentials'
+  authors:
+  - Yinhua Zhang
+  - Qian Ye
+  - Hao He
+  - Richu Jin
+  - Weiwei Peng
+  publisher: The Journal of Pain
+  date: '2023-07-01'
+  link: https://doi.org/gr6nzz
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1097/j.pain.0000000000002814
+  title: Aftereffects of alpha transcranial alternating current stimulation over the
+    primary sensorimotor cortex on cortical processing of pain
+  authors:
+  - Weiwei Peng
+  - Yilin Zhan
+  - Richu Jin
+  - Wutao Lou
+  - Xiaoyun Li
+  publisher: Pain
+  date: '2022-10-26'
+  link: https://doi.org/gtrkzn
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1016/j.clinph.2022.12.009
+  title: Transcranial random noise stimulation over the left dorsolateral prefrontal
+    cortex attenuates pain expectation and perception
+  authors:
+  - Xiaoyun Li
+  - Junjie Yao
+  - Xinxin Lin
+  - Shengxiong Chen
+  - Richu Jin
+  - Weiwei Peng
+  publisher: Clinical Neurophysiology
+  date: '2023-03-01'
+  link: https://doi.org/gtrkzr
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1093/cercor/bhac184
+  title: Gyrus rectus asymmetry predicts trait alexithymia, cognitive empathy, and
+    social function in neurotypical adults
+  authors:
+  - Wenlong Li
+  - Wutao Lou
+  - Wenyun Zhang
+  - Raymond Kai-Yu Tong
+  - Richu Jin
+  - Weiwei Peng
+  publisher: Cerebral Cortex
+  date: '2022-05-15'
+  link: https://doi.org/gp524t
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1080/03004430.2021.2003794
+  title: "Mothers\u2019 implicit and explicit attitudes towards infant crying: predicting\
+    \ postpartum depressive symptoms"
+  authors:
+  - Anqi Sun
+  - Weiwei Peng
+  - Arya Ansari
+  - Xile Li
+  - Yue Xu
+  - Ni Yan
+  publisher: Early Child Development and Care
+  date: '2021-11-22'
+  link: https://doi.org/gtrmf2
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1016/j.psyneuen.2022.105768
+  title: "Single-dose testosterone administration modulates instant empathic responses\
+    \ to others\u2019 pain: An EEG study"
   authors:
   - Shiwei Zhuo
-  - Yinhua Zhang
-  - Chennan Lin
+  - Wenyun Zhang
+  - Junsong Fan
+  - Yin Wu
+  - Wen Wu
   - Weiwei Peng
   publisher: Psychoneuroendocrinology
-  date: '2023-06-01'
-  link: https://doi.org/gr6nzr
-  type: paper
-  description: "A plausible explanation for these findings is that testosterone acts\
-    \ to increase vigilance and sustained attention levels, as evidenced by the decreased\
-    \ \u03B1-oscillation power. Thus, our findings support a causal role for testosterone\
-    \ in heightening the biological salience of incoming somatosensory information."
+  date: '2022-07-01'
+  link: https://doi.org/gtrmf3
   plugin: sources.py
-  file: sources-2023.yaml
+  file: sources.yaml
+- id: 10.1007/s11571-021-09726-6
+  title: Continuous theta-burst stimulation modulates resting-state EEG microstates
+    in healthy subjects
+  authors:
+  - Shuang Qiu
+  - Shengpei Wang
+  - Weiwei Peng
+  - Weibo Yi
+  - Chuncheng Zhang
+  - Jing Zhang
+  - Huiguang He
+  publisher: Cognitive Neurodynamics
+  date: '2021-10-16'
+  link: https://doi.org/gpxtfj
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1097/j.pain.0000000000003103
+  title: Multimodal covarying brain patterns mediate genetic and psychological contributions
+    to individual differences in pain sensitivity
+  authors:
+  - Huijuan Zhang
+  - Lei Zhao
+  - Xuejing Lu
+  - Weiwei Peng
+  - Li Zhang
+  - Zhiguo Zhang
+  - Li Hu
+  - Jin Cao
+  - Yiheng Tu
+  publisher: Pain
+  date: '2023-11-09'
+  link: https://doi.org/gtrmf4
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1016/j.neuroimage.2021.118249
+  title: 'Suffer together, bond together: Brain-to-brain synchronization and mutual
+    affective empathy when sharing painful experiences'
+  authors:
+  - Weiwei Peng
+  - Wutao Lou
+  - Xiaoxuan Huang
+  - Qian Ye
+  - Raymond Kai-Yu Tong
+  - Fang Cui
+  publisher: NeuroImage
+  date: '2021-09-01'
+  link: https://doi.org/gkkjnd
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.3724/SP.J.1041.2021.00613
+  title: 'Abnormalities in pain sensitivity among individuals with autism spectrum
+    disorder: Evidence from meta-analysis'
+  authors:
+  - Wenyun ZHANG
+  - Xiaoyun LI
+  - Junjie YAO
+  - Qian YE
+  - Weiwei PENG
+  publisher: Acta Psychologica Sinica
+  date: '2021-06-01'
+  link: https://doi.org/gtrmf5
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1016/j.yhbeh.2021.104963
+  title: Single dose testosterone administration enhances novelty responsiveness and
+    short-term habituation in healthy males
+  authors:
+  - Huihua Fang
+  - Xiaoyun Li
+  - Wenyun Zhang
+  - Bi Fan
+  - Yin Wu
+  - Weiwei Peng
+  publisher: Hormones and Behavior
+  date: '2021-05-01'
+  link: https://doi.org/gtrmf6
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1097/PSY.0000000000000844
+  title: Individual Variation in Pain Sensitivity and Implicit Negative Bias Toward
+    Pain
+  authors:
+  - Qian Ye
+  - Xiaoyun Li
+  - Weiwei Peng
+  publisher: Psychosomatic Medicine
+  date: '2020-07-27'
+  link: https://doi.org/gmb4dd
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.26599/BSA.2020.9050019
+  title: Demystifying signal processing techniques to extract resting-state EEG features
+    for psychologists
+  authors:
+  - Zhenjiang Li
+  - Libo Zhang
+  - Fengrui Zhang
+  - Ruolei Gu
+  - Weiwei Peng
+  - Li Hu
+  publisher: Brain Science Advances
+  date: '2020-09-01'
+  link: https://doi.org/gjgn73
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1016/j.jpain.2019.10.007
+  title: Shared Sensitivity to Physical Pain and Social Evaluation
+  authors:
+  - Manlin Yao
+  - Yi Lei
+  - Peng Li
+  - Qian Ye
+  - Yang Liu
+  - Xiaoyun Li
+  - Weiwei Peng
+  publisher: The Journal of Pain
+  date: '2020-05-01'
+  link: https://doi.org/grv8b5
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1038/s41598-020-62478-x
+  title: The interaction between pain and attractiveness perception in others
+  authors:
+  - Jing Meng
+  - Xiong Li
+  - Weiwei Peng
+  - Zuoshan Li
+  - Lin Shen
+  publisher: Scientific Reports
+  date: '2020-03-26'
+  link: https://doi.org/ghr87j
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1016/j.nicl.2020.102454
+  title: Individual variation in alpha neurofeedback training efficacy predicts pain
+    modulation
+  authors:
+  - Weiwei Peng
+  - Yilin Zhan
+  - Yali Jiang
+  - Wenya Nan
+  - Roi Cohen Kadosh
+  - Feng Wan
+  publisher: 'NeuroImage: Clinical'
+  date: '2020-01-01'
+  link: https://doi.org/gtrmf7
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1016/j.neuropsychologia.2019.107177
+  title: "Top-down attention modulation on the perception of others\u2019 vocal pain:\
+    \ An event-related potential study"
+  authors:
+  - Jing Meng
+  - Lin Shen
+  - Zuoshan Li
+  - Weiwei Peng
+  publisher: Neuropsychologia
+  date: '2019-10-01'
+  link: https://doi.org/gsdw8w
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1007/s10548-019-00723-x
+  title: Cross-Species Investigation on Resting State Electroencephalogram
+  authors:
+  - Fengrui Zhang
+  - Feixue Wang
+  - Lupeng Yue
+  - Huijuan Zhang
+  - Weiwei Peng
+  - Li Hu
+  publisher: Brain Topography
+  date: '2019-07-04'
+  link: https://doi.org/gp3mxz
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1016/j.neuroimage.2019.03.077
+  title: Neurobiological mechanisms of TENS-induced analgesia
+  authors:
+  - W.W. Peng
+  - Z.Y. Tang
+  - F.R. Zhang
+  - H. Li
+  - Y.Z. Kong
+  - G.D. Iannetti
+  - L. Hu
+  publisher: NeuroImage
+  date: '2019-07-01'
+  link: https://doi.org/gppvxk
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1093/scan/nsz047
+  title: Predictability modulates the anticipation and perception of pain in both
+    self and others
+  authors:
+  - Weiwei Peng
+  - Xiaoxuan Huang
+  - Yang Liu
+  - Fang Cui
+  publisher: Social Cognitive and Affective Neuroscience
+  date: '2019-06-25'
+  link: https://doi.org/grv79q
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1016/j.neuroscience.2019.04.055
+  title: Others' Pain Appraisals Modulate the Anticipation and Experience of Subsequent
+    Pain
+  authors:
+  - Weiwei Peng
+  - Huini Peng
+  - Juanzhi Lu
+  - Bi Fan
+  - Fang Cui
+  publisher: Neuroscience
+  date: '2019-07-01'
+  link: https://doi.org/gtrmf8
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1016/j.biopsycho.2019.03.011
+  title: "Hearing other\u2019s pain is associated with sensitivity to physical pain:\
+    \ An ERP study"
+  authors:
+  - Yang Liu
+  - Jing Meng
+  - Manlin Yao
+  - Qian Ye
+  - Bi Fan
+  - Weiwei Peng
+  publisher: Biological Psychology
+  date: '2019-07-01'
+  link: https://doi.org/grv79r
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1016/j.ijpsycho.2019.03.004
+  title: 'Reduced empathic pain processing in patients with somatoform pain disorder:
+    Evidence from behavioral and neurophysiological measures'
+  authors:
+  - Weiwei Peng
+  - Jing Meng
+  - Yixue Lou
+  - Xinyu Li
+  - Yi Lei
+  - Dong Yan
+  publisher: International Journal of Psychophysiology
+  date: '2019-05-01'
+  link: https://doi.org/grfg68
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1371/journal.pone.0034163
+  title: Causality in the Association between P300 and Alpha Event-Related Desynchronization
+  authors:
+  - Weiwei Peng
+  - Li Hu
+  - Zhiguo Zhang
+  - Yong Hu
+  publisher: PLoS ONE
+  date: '2012-04-12'
+  link: https://doi.org/gk3296
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1016/j.jpain.2012.10.008
+  title: Functional Features of Nociceptive-Induced Suppression of Alpha Band Electroencephalographic
+    Oscillations
+  authors:
+  - Li Hu
+  - Weiwei Peng
+  - Elia Valentini
+  - Zhiguo Zhang
+  - Yong Hu
+  publisher: The Journal of Pain
+  date: '2013-01-01'
+  link: https://doi.org/f3h7ms
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1371/journal.pone.0091052
+  title: Changes of Spontaneous Oscillatory Activity to Tonic Heat Pain
+  authors:
+  - Weiwei Peng
+  - Li Hu
+  - Zhiguo Zhang
+  - Yong Hu
+  publisher: PLoS ONE
+  date: '2014-03-06'
+  link: https://doi.org/gtrmf9
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1371/journal.pone.0069164
+  title: Distinct Features of Auditory Steady-State Responses as Compared to Transient
+    Event-Related Potentials
+  authors:
+  - Li Zhang
+  - Weiwei Peng
+  - Zhiguo Zhang
+  - Li Hu
+  publisher: PLoS ONE
+  date: '2013-07-09'
+  link: https://doi.org/f5btsv
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1016/j.biopsycho.2015.05.004
+  title: Subjective pain perception mediated by alpha rhythms
+  authors:
+  - Weiwei Peng
+  - Claudio Babiloni
+  - Yanhui Mao
+  - Yong Hu
+  publisher: Biological Psychology
+  date: '2015-07-01'
+  link: https://doi.org/f7mgrz
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1038/srep13796
+  title: Electrophysiological evidences demonstrating differences in brain functions
+    between nonmusicians and musicians
+  authors:
+  - Li Zhang
+  - Weiwei Peng
+  - Jie Chen
+  - Li Hu
+  publisher: Scientific Reports
+  date: '2015-09-04'
+  link: https://doi.org/f7qpp3
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1016/j.jneumeth.2015.05.026
+  title: A novel approach to identify time-frequency oscillatory features in electrocortical
+    signals
+  authors:
+  - Huibin Jia
+  - Weiwei Peng
+  - Li Hu
+  publisher: Journal of Neuroscience Methods
+  date: '2015-09-01'
+  link: https://doi.org/f8qv6t
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1097/j.pain.0000000000000316
+  title: Was it a pain or a sound? Across-species variability in sensory sensitivity
+  authors:
+  - Li Hu
+  - Xiaolei L. Xia
+  - Weiwei W. Peng
+  - Wenxin X. Su
+  - Fei Luo
+  - Hong Yuan
+  - Antao T. Chen
+  - Meng Liang
+  - Giandomenico Iannetti
+  publisher: Pain
+  date: '2015-12-01'
+  link: https://doi.org/f72h7h
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1016/j.bbr.2015.04.051
+  title: "Widespread cortical \u03B1-ERD accompanying visual oddball target stimuli\
+    \ is frequency but non-modality specific"
+  authors:
+  - Weiwei Peng
+  - Yong Hu
+  - Yanhui Mao
+  - Claudio Babiloni
+  publisher: Behavioural Brain Research
+  date: '2015-12-01'
+  link: https://doi.org/f7z9w2
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1002/hbm.23048
+  title: Alpha and gamma oscillation amplitudes synergistically predict the perception
+    of forthcoming nociceptive stimuli
+  authors:
+  - Yiheng Tu
+  - Zhiguo Zhang
+  - Ao Tan
+  - Weiwei Peng
+  - Yeung Sam Hung
+  - Massieh Moayedi
+  - Gian Domenico Iannetti
+  - Li Hu
+  publisher: Human Brain Mapping
+  date: '2015-11-02'
+  link: https://doi.org/f79x8k
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.3389/fncom.2016.00009
+  title: 'Pain Related Cortical Oscillations: Methodological Advances and Potential
+    Applications'
+  authors:
+  - Weiwei Peng
+  - Dandan Tang
+  publisher: Frontiers in Computational Neuroscience
+  date: '2016-02-04'
+  link: https://doi.org/gf93zs
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1016/j.neuroimage.2015.12.042
+  title: Laser-evoked cortical responses in freely-moving rats reflect the activation
+    of C-fibre afferent pathways
+  authors:
+  - X.L. Xia
+  - W.W. Peng
+  - G.D. Iannetti
+  - L. Hu
+  publisher: NeuroImage
+  date: '2016-03-01'
+  link: https://doi.org/f79xkt
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1155/2017/8949165
+  title: Unilateral Laryngeal Pacing System and Its Functional Evaluation
+  authors:
+  - Taiping Zeng
+  - Zhiping Zhang
+  - Weiwei Peng
+  - Fei Zhang
+  - Baker Y. Shi
+  - Fangyi Chen
+  publisher: Neural Plasticity
+  date: '2017-01-01'
+  link: https://doi.org/gtrmgb
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1002/ejp.985
+  title: "Biological mechanism of post\u2010herpetic neuralgia: Evidence from multiple\
+    \ patho\u2010psychophysiological measures"
+  authors:
+  - W.W. Peng
+  - X.L. Guo
+  - Q.Q. Jin
+  - H. Wei
+  - X.L. Xia
+  - Y. Zhang
+  - P.C. Huang
+  - W.C. Wang
+  - S.L. Li
+  - J.S. Wang
+  - J. Chen
+  - L. Hu
+  publisher: European Journal of Pain
+  date: '2016-12-15'
+  link: https://doi.org/f9hfhg
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1111/psyp.12839
+  title: "Analgesia induced by self\u2010initiated electrotactile sensation is mediated\
+    \ by top\u2010down modulations"
+  authors:
+  - Ke Zhao
+  - Zhengyu Tang
+  - Huiquan Wang
+  - Yifei Guo
+  - Weiwei Peng
+  - Li Hu
+  publisher: Psychophysiology
+  date: '2017-02-07'
+  link: https://doi.org/f9pjn6
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1097/j.pain.0000000000001069
+  title: Brain oscillations reflecting pain-related behavior in freely moving rats
+  authors:
+  - Weiwei Peng
+  - Xiaolei Xia
+  - Ming Yi
+  - Gan Huang
+  - Zhiguo Zhang
+  - Giandomenico Iannetti
+  - Li Hu
+  publisher: Pain
+  date: '2017-09-25'
+  link: https://doi.org/gdc2fg
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1523/JNEUROSCI.3654-17.2018
+  title: Somatotopic Representation of Second Pain in the Primary Somatosensory Cortex
+    of Humans and Rodents
+  authors:
+  - Q.Q. Jin
+  - G.Q. Wu
+  - W.W. Peng
+  - X.L. Xia
+  - L. Hu
+  - G.D. Iannetti
+  publisher: The Journal of Neuroscience
+  date: '2018-05-21'
+  link: https://doi.org/gdr6nx
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.3758/s13415-018-0615-3
+  title: Electrophysiological measures reveal the role of anterior cingulate cortex
+    in learning from unreliable feedback
+  authors:
+  - Peng Li
+  - Weiwei Peng
+  - Hong Li
+  - Clay B. Holroyd
+  publisher: Cognitive, Affective, &amp; Behavioral Neuroscience
+  date: '2018-07-10'
+  link: https://doi.org/gf6xh4
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1007/978-981-13-9113-2_5
+  title: EEG Preprocessing and Denoising
+  authors:
+  - Weiwei Peng
+  publisher: EEG Signal Processing and Feature Extraction
+  date: '2019-01-01'
+  link: https://doi.org/gtrmgc
+  plugin: sources.py
+  file: sources.yaml
