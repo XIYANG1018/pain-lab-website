@@ -14,12 +14,13 @@
   orcid: 0000-0002-4600-0036
   plugin: orcid.py
   file: orcid.yaml
-- id: 10.1109/TNSRE.2024.3378712
-  title: Tracking the Immediate and Short-Term Effects of Continuous Theta Burst Stimulation
-    on Dynamic Brain States
+- id: doi:10.1007/s12144-022-03793-6
+  title: Linking interpretation bias to individual differences in pain sensitivity
   authors:
-  - Chao Chen
-  - Zhidong Guo
+  - Zekun Guo
+  - Wenyun Zhang
+  - Xiaohan Lyu
+  - Qian Ye
   - Weiwei Peng
   publisher: Current Psychology
   date: '2022-10-22'
@@ -226,7 +227,7 @@
   - Xiaogang Chen
   - Huiguang He
   publisher: IEEE Transactions on Neural Systems and Rehabilitation Engineering
-  date: '2024-3-25'
+  date: '2020-12-04'
   link: https://doi.org/gtrkzj
   type: paper
   image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/7333/10398877/10477518/qiu2abc-3378712-large.gif
